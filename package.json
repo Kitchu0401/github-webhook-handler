@@ -1,0 +1,23 @@
+{
+  "name": "github-webhook-handler",
+  "version": "1.0.0",
+  "description": "Simple github webhook reciever with node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kitchu0401/github-webhook-handler.git"
+  },
+  "author": "Kitchu0401",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kitchu0401/github-webhook-handler/issues"
+  },
+  "homepage": "https://github.com/Kitchu0401/github-webhook-handler",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "gith": "^1.0.4"
+  }
+}
